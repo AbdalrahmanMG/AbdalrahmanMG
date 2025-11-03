@@ -1,48 +1,44 @@
-<h1 align="center">Hi 👋, I'm Abdalrahman Gomaa</h1>
-<h3 align="center">Full-Stack JavaScript Developer (MERN & Next.js)</h3>
+Hi there 👋 I'm Abdalrahman Gomaa
+=================================
+
+**Full-Stack JavaScript Developer (MERN & Next.js)**  
+Passionate about building scalable web applications and clean, maintainable user interfaces.
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently building a **real-time Chat App (MERN + Socket.io)**  
-- 🌱 Learning **Next.js** and polishing my backend skills  
-- 💬 Ask me about **React, TypeScript, Node.js, and scalable frontend architecture**  
-- ⚡ Fun fact: I can debug faster than I can decide what to eat 😅  
+### 🧭 About Me
+- 🌍 Based in Egypt  
+- 💻 I work with **JavaScript/TypeScript**, mainly using **React**, **Next.js**, **Node.js**, and **MongoDB**  
+- ⚙️ I enjoy solving complex problems and improving performance in both frontend and backend systems  
+- 🚀 Constantly learning new technologies and best practices  
+- ✉️ You can reach me at [abdalrahman.mg@gmail.com](mailto:abdalrahman.mg@gmail.com)
 
 ---
 
-### 🧠 Tech Stack  
+### 🧠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,nodejs,express,mongodb,jwt,git,github,vscode,postman" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,vite,nodejs,express,mongodb,jwt,git,github,vscode,postman" /></a>
 </p>
 
 ---
 
-### 🧩 Featured Projects  
-- 💬 [Chat App (MERN + Socket.io)](https://github.com/AbdalrahmanGomaa/chat-app) — *Real-time messaging with authentication & live updates*  
-- 🛍️ **Next.js E-commerce** *(Coming soon)* — *Full-featured store with cart, checkout, and admin dashboard*  
-- ☁️ **SaaS Dashboard** *(Coming soon)* — *Analytics & management platform with modern UI/UX*  
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanGomaa&show_icons=true&theme=github_dark&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=AbdalrahmanGomaa&theme=github-dark&hide_border=true" height="160" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanGomaa&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdalrahmanGomaa&theme=radical" height="160"/>
-</p>
-
----
-
-### 🌐 Connect with Me  
+### 🤝 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/abdalrahmanmg" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:abdalrahman.mg@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
 
