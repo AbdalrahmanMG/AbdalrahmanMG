@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdalrahman Gomaa</h1>
-<h3 align="center">Full-Stack JavaScript Developer (MERN & Next.js)</h3>
+<h3 align="center">Full-Stack Developer (MERN)</h3>
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### 🧠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,vite,nodejs,express,mongodb,socketio,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,vite,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
@@ -35,6 +35,14 @@
 - Writing **clean, maintainable, and scalable** code.  
 - Learning **advanced frontend patterns** and improving developer experience.  
 - Building tools and UIs that feel great to use.  
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanMG&show_icons=true&theme=react" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdalrahmanMG&theme=react" />
+</p>
 
 ---
 
