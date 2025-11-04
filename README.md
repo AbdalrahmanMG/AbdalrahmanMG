@@ -39,17 +39,12 @@
 
 ### 📊 GitHub Stats (Highlights Only)
 <p align="center">
-  <!-- Overall stats (works reliably) -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanMG&show_icons=true&theme=react&hide_border=true" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdalrahamnMG&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
   <!-- Top languages (you already had this working) -->
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanMG&layout=compact&theme=react&langs_count=6" />
 </p>
 
-<!-- Contribution calendar (good visual alternative to streak image) -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/AbdalrahmanMG" alt="Contribution chart" />
-</p>
 
 
 ---
