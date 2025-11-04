@@ -39,9 +39,7 @@
 
 ### 📊 GitHub Stats (Highlights Only)
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdalrahamnMG&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-
-  <!-- Top languages (you already had this working) -->
+  <img height="160" src="https://streak-stats.demolab.com/?user=AbdalrahmanMG&theme=react&hide_border=true"     />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanMG&layout=compact&theme=react&langs_count=6" />
 </p>
 
