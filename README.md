@@ -39,7 +39,6 @@
 
 ### 📊 GitHub Stats (Highlights Only)
 <p align="center">
-  <img height="160" src="https://github-readme-streak-stats-abdalrahmanmg.vercel.app?user=AbdalrahmanMG&theme=react&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanMG&layout=compact&theme=react&langs_count=6" />
 </p>
 
