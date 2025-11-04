@@ -6,14 +6,15 @@
 ### 🧭 About Me  
 - 💻 Full-stack developer passionate about building **modern, fast, and scalable web apps**.  
 - ⚛️ Focused on **React, Next.js, and TypeScript**, with solid backend experience in **Node.js, Express, and MongoDB**.  
-- 🚀 Currently working on real-time apps and improving backend performance.  
+- ⚙  Currently working at DevGlobal.  
+- 🚀 Currently learing Next.js, Node.js and SQL by working on real-world projects.
 - ✉️ Reach me at: [abdalrahman.m.gomaa@gmail.com](mailto:abdalrahman.m.gomaa@gmail.com)  
 
 ---
 
 ### 🧠 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,vite,nodejs,express,mongodb,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,ts,react,nextjs,redux,tailwind,vite,nodejs,express,mongodb,git,github,vscode,postman" />
 </p>
 
 ---
