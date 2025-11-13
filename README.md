@@ -30,10 +30,10 @@
 ---
 
 ### ⚡ Highlights  
-✅ 500+ total contributions this year  
+✅ 1,100+ total contributions this year  
 🔥 Continuous activity streaks  
 💬 Building interactive real-time applications  
-🌱 Currently learning **Next.js Advanced Concepts**
+🌱 Currently learning **Next.js**
 
 ---
 
