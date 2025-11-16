@@ -76,13 +76,6 @@ A fully functional **web-based VS Code clone**, powered by:
 
 ---
 
-## 👀 Profile Views  
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AbdalrahmanMG&icon=0&color=0" />
-</p>
-
----
-
 ## 🌐 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/abdalrahmanmg" target="_blank">
@@ -92,3 +85,7 @@ A fully functional **web-based VS Code clone**, powered by:
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AbdalrahmanMG&icon=0&color=0)](https://visitcount.itsvg.in)
