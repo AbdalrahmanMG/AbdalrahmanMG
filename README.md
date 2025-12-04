@@ -58,7 +58,7 @@ Production-ready **book management app** with server-side auth and optimistic up
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AbdalrahmanMG&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AbdalrahmanMG&theme=dark&hide_border=false&include_all_commits=true&count_private=false" />
 </p>
 
 <p align="center">
@@ -66,7 +66,7 @@ Production-ready **book management app** with server-side auth and optimistic up
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdalrahmanMG&layout=compact&theme=dark&hide_border=false" />
+  <img height="160" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AbdalrahmanMG&layout=compact&theme=dark&hide_border=false" />
 </p>
 
 ---
