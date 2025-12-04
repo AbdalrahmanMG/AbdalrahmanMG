@@ -38,11 +38,13 @@ A real-time chat application built with **MERN + Socket.io**, featuring:
 
 ---
 
-### 💻 <a href="https://github.com/AbdalrahmanMG/vscode-clone" target="_blank">VSCode Clone</a>
-A fully functional **web-based VS Code clone**, powered by:  
-✔ React + TypeScript  
-✔ Monaco Editor  
-✔ Fast rendering + smooth developer experience  
+### 📚 <a href="https://github.com/Abdalrahman/book-shop" target="_blank">Books Shop Management</a>
+Production-ready **book management app** with server-side auth and optimistic updates. Powered by:  
+✔ Next.js 15 App Router + TypeScript
+✔ Supabase + React Query + Zod validation
+✔ shadcn/ui + TailwindCSS  
+✔ Vitest + 90% coverage
+✔ Dark mode + Responsive design
 
 ---
 
